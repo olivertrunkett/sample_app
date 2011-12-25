@@ -8,7 +8,7 @@ gem 'sqlite3'
 group :development do
   gem 'rspec-rails'
   gem 'webrat', '0.7.1'
-  gem 'annotate', '2.4.0'
+  gem 'annotate', '~> 2.4.1.beta'
   gem 'faker', '0.3.1'
 end
 
